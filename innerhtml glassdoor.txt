@@ -1,0 +1,15 @@
+{
+  "message": "
+<div class=\"logoWrap\">
+<a href=\"/partner/jobListing.htm?pos=103&amp;ao=4120&amp;s=58&amp;guid=0000016b89a3f68eafaac7c68c61cdae&amp;src=GD_JOB_AD&amp;t=SR&amp;extid=1&amp;exst=EL&amp;ist=&amp;ast=EL&amp;vt=w&amp;slr=true&amp;cs=1_a19c90a0&amp;cb=1561382352913&amp;jobListingId=3206511722\" rel=\"nofollow\" target=\"_blank\" class=\"jobLink\" data-ja-clk=\"0\" data-gd-view=\"1\" data-ev-a=\"G-O\" data-ajax=\"false\" style=\"pointer-events: all;\"><span class=\"sqLogo tighten xsSqLogo\"><img data-original=\"https://media.glassdoor.com/sqls/1252934/adwait-algorithm-squarelogo-1471347970406.png\" data-original-2x=\"https://media.glassdoor.com/sqlm/1252934/adwait-algorithm-squarelogo-1471347970406.png\" src=\"https://media.glassdoor.com/sqls/1252934/adwait-algorithm-squarelogo-1471347970406.png\" class=\"lazy lazy-loaded\" data-retina-ok=\"true\" alt=\"Adwait Algorithm Logo\" title=\"\" style=\"opacity: 1;\"></span></a><span class=\"compactStars \"> 4.6<i class=\"star\"></i></span></div><div class=\"jobContainer\"><div class=\"jobHeader\" uipath_custom_id=\"8\"><div class=\"jobInfoItem jobEmpolyerName\">Adwait Algorithm</div><div class=\"saveJobWrap\"><span class=\"save-job-button save-job-button-3206511722 nowrap \" data-job-id=\"3206511722\" data-saved-job-id=\"\" data-ao-id=\"4120\" data-save-hook=\"JOB_SEARCH_PANE\" title=\"Save\"><i class=\"heart\"></i></span></div></div><a href=\"/partner/jobListing.htm?pos=103&amp;ao=4120&amp;s=58&amp;guid=0000016b89a3f68eafaac7c68c61cdae&amp;src=GD_JOB_AD&amp;t=SR&amp;extid=1&amp;exst=EL&amp;ist=&amp;ast=EL&amp;vt=w&amp;slr=true&amp;cs=1_a19c90a0&amp;cb=1561382352916&amp;jobListingId=3206511722\" rel=\"nofollow\" target=\"_blank\" class=\"jobLink jobInfoItem jobTitle \" data-ja-clk=\"0\" data-gd-view=\"1\" data-ev-a=\"G-O\" data-ajax=\"false\" style=\"pointer-events: all;\" uipath_custom_id=\"9\">RPA</a><div class=\"jobInfoItem empLoc\"><span class=\"subtle loc\" uipath_custom_id=\"10\">Denver, CO</span><div class=\"jobLabels\"><span class=\"jobLabel nowrap\"><span class=\"minor\"> 4d</span></span></div></div></div>",
+  "level": "Information",
+  "logType": "User",
+  "timeStamp": "16:24:40",
+  "processVersion": "1.0.0",
+  "jobId": "5919669a-5a20-4e56-8cf4-bf97cf70fdcf",
+  "robotName": "ATOM",
+  "machineId": 0,
+  "fileName": "random_tests"
+}
+
+https://www.glassdoor.com/job-listing/JV.htm?jl=3206511722

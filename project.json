@@ -1,6 +1,6 @@
 {
   "name": "DemoProject-01",
-  "description": "Foolling around to test 19.5. \r\nNo Orchestrator connection!",
+  "description": "Foolling around to test 19.5. \r\nNo Orchestrator connection!\r\nJob scanner: automation for glassdooor.",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.6.0]",
